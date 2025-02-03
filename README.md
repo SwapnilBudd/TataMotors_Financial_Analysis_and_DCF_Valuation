@@ -1,1 +1,2 @@
 # TataMotors_Financial_Analysis_and_DCF_Valuation
+This repository contains a detailed evaluation of Tata Motors' balance sheet, cash flow statements, and key financial ratios, providing insights into the company's financial health, operational efficiency, and overall performance metrics. Also, it features a DCF valuation model estimating Tata Motors' intrinsic value based on future cash flow projections and includes analyses of beta drifting, WACC, common size statements, and comparable company valuations.
